@@ -1,5 +1,5 @@
 //pacote ex_06 - todas as classes do projeto estao contidas no mesmo pacote.
-package com.ex06;
+package com.ex07;
 //biblioteca oara tratamento de bignumbers.
 
 import java.math.BigDecimal;

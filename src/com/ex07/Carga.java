@@ -1,5 +1,5 @@
 //pacote ex_06 - todas as classes do projeto estao contidas no mesmo pacote
-package com.ex06;
+package com.ex07;
 
 //Declaracao da classe, extendida a heranca
 public final class Carga extends Veiculo implements Calcular {
