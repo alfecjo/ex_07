@@ -95,3 +95,9 @@ iv. Que as classes filhas (Passeio e Carga) sejam herdadas;
 
 
 - ![Git](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+
+- ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+- ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+
+![image](https://user-images.githubusercontent.com/103886679/211118319-517b76c7-9dad-4f9f-ba0e-c2ae654b5b90.png)
